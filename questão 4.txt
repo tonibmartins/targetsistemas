@@ -1,0 +1,5 @@
+Liguei o interruptor 1 por 10 minutos e o 2 por 5 minutos. Depois, desliguei o 2 e fui até as lâmpadas:
+
+Se a 1 estava quente, o interruptor 1 a controla.
+Se a 1 estava fria e a 2 acesa, o interruptor 2 controla a 2.
+Se a 1 estava fria e a 2 apagada, o interruptor 3 controla a 1.
